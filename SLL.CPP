@@ -30,6 +30,7 @@ class LinkedList
 };
 void LinkedList :: create()
 {
+	
 	clrscr();
 	char ch;
 	do
