@@ -276,6 +276,7 @@ int LinkedList :: count()
 	}
 	return n;
 }
+
 void main()
 {
 	clrscr();
