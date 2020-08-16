@@ -250,6 +250,7 @@ void LinkedList :: search()
 	else
 		cout<<"\nElement found";
 }
+
 void main()
 {
 	clrscr();
