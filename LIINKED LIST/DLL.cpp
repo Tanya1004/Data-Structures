@@ -34,6 +34,7 @@ int LinkedList :: isempty()
 	else
 		return 1;
 }
+
 void LinkedList :: create()
 {
 	clrscr();
